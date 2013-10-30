@@ -1,0 +1,6 @@
+find .mov 
+open in quicktime
+explort to itunes
+open in finder
+cp to dir
+ffpmeg -i mp4a mp3
